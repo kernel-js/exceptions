@@ -1,6 +1,6 @@
 # @kernel/exceptions<br />
 [![Build Status](https://travis-ci.org/kernel-js/exceptions.svg?branch=master)](https://travis-ci.org/kernel-js/exceptions)
-
+[![Coverage Status](https://coveralls.io/repos/github/kernel-js/exceptions/badge.svg?branch=master)](https://coveralls.io/github/kernel-js/exceptions?branch=master)
 <br />
 
 > Common error classes
