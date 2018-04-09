@@ -1,6 +1,6 @@
 {
-  "name": "@kernel/exceptions",
-  "version": "1.0.0",
+  "name": "@kernel-js/exceptions",
+  "version": "1.0.2",
   "description": "Exceptions for Kernel Framework",
   "main": "./dist/index.js",
   "module": "./es6/index.js",
