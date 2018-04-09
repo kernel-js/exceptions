@@ -1,5 +1,6 @@
 import ExtendableError from './ExtendableError';
 
+import AlreadyInUseError from './AlreadyInUseError';
 import ArgumentError from './ArgumentError';
 import ArgumentNullError from './ArgumentNullError';
 import AuthenticationRequiredError from './AuthenticationRequiredError';
@@ -20,6 +21,7 @@ import TypeError from './TypeError';
 import URIError from './URIError';
 
 export {
+  AlreadyInUseError,
   ArgumentError,
   ArgumentNullError,
   AuthenticationRequiredError,
