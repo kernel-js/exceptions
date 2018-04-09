@@ -1,5 +1,7 @@
-@kernel/exceptions
-===========
+# @kernel/exceptions<br />
+[![Build Status](https://travis-ci.org/kernel-js/exceptions.svg?branch=master)](https://travis-ci.org/kernel-js/exceptions)
+
+<br />
 
 > Common error classes
 
