@@ -1,0 +1,21 @@
+{
+  "name": "@kernel/exceptions",
+  "description": "Exceptions for Kernel Framework",
+  "main": "dist/index.js",
+  "author": "Gus <gus@brid-it.com>",
+  "license": "MIT",
+  "keywords": [
+    "kernel",
+    "kernel-framework",
+    "error",
+    "exception"
+  ],
+  "homepage": "https://github.com/kernel-js/exceptions",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
