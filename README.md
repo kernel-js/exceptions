@@ -12,13 +12,13 @@
 
 ## Inspirations
 
-This package was totally based on bjyoungblood/es6-error and shutterstock/node-common-errors.
+This package was totally based on [es6-error](https://www.npmjs.com/package/es6-error) and [common-errors](https://www.npmjs.com/package/common-errors).
 
 ## Why
 
-First of all I created this to support development of [Kernel Framework](https://www.npmjs.com/package/@kernel/framework).<br />
-So, why I don't used the existing packages? Well, bjyoungblood/es6-error is lightweight to use on client-side, but I 
-wanted more features on ExtendableError and more pre-defined error types. And shutterstock/node-common-errors has a lot 
+First of all I created this to support development of [Kernel Framework](https://www.npmjs.com/package/@kernel-js/framework).<br />
+So, why I don't used the existing packages? Well, [es6-error](https://www.npmjs.com/package/es6-error) is lightweight to use on client-side, but I 
+wanted more features on ExtendableError and more pre-defined error types. And [common-errors](https://www.npmjs.com/package/common-errors) has a lot 
 of pre-defined error types but has some code I don't need (lightweight is mandatory to kernel framework) and is not intended to use on browser.
 
 ## Install
